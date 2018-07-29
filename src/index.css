@@ -1,0 +1,28 @@
+.box {
+  background: #fff;
+  border: 2px groove #999;
+  border-radius: 3px;
+  float: left;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 50px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  height: 50px;
+  width: 50px;
+}
+
+.main_display {
+  display: grid
+}
+
+.info {
+  margin-top: 20px;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 20px;
+  font-family: monospace;
+  font-weight: bold;
+}
